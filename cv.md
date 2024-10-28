@@ -1,5 +1,7 @@
 # **Dmitry Starchenko**
 
+![photo](DSC_6608.jpg 'My family')
+
 ## **Contacts**
 * Location: Belarus, Gomel
 * E-mail: dololob92@gmail.com
@@ -25,7 +27,7 @@ const ArrowFunc = function(arr) {
 ```
 
 ## **Education**
-FRANCISK SKORINA GOMEL STATE UNIVERSITY
++ FRANCISK SKORINA GOMEL STATE UNIVERSITY
 
 ## **Languages**
 * Russian - native
