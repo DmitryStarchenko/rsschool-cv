@@ -29,3 +29,86 @@
 </p>
 
 </div>
+
+---
+
+# 🚀 About Me
+
+Frontend Developer focused on building modern, scalable and production-ready web applications.
+
+- ⚛️ React / Next.js ecosystem
+- 🧠 TypeScript-first approach
+- 🔥 Interested in modern frontend architecture
+- 🚀 Passionate about performance optimization
+- 🤝 Team player experienced with Agile & Code Review
+- 🌍 Open to remote opportunities and relocation
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,sass,materialui,vite,webpack" />
+</p>
+
+## Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,postgres,supabase,docker" />
+</p>
+
+## Tools & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jest,vscode,figma" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🔥 CareerForge
+
+AI-Powered Resume & ATS SaaS
+
+### Stack
+
+Next.js 16 • React 19 • TypeScript • PostgreSQL • Prisma • OpenRouter • Better Auth • Cloudflare R2
+
+[🔗 Live Demo](https://www.careerforge.ru)
+
+---
+
+## 🛒 eCommerce SPA
+
+Production-like eCommerce application with authentication, product catalog, filters and cart functionality.
+
+### Stack
+
+React • TypeScript • RTK Query • NestJS • Vite • MUI
+
+[🔗 Live Demo](https://ecommerce-application-lumw.onrender.com/)
+
+---
+
+## ⚡ Putman
+
+Modern Next.js application with localization, scalable architecture and API integrations.
+
+### Stack
+
+Next.js • TypeScript • Supabase • MUI • Vitest
+
+[🔗 Live Demo](https://putman.vercel.app/)
+
+---
+
+## 🎮 Pokemon React App
+
+Interactive React application with API integration and responsive UI.
+
+[🔗 Live Demo](https://pokemon-react-2025.netlify.app/)
+
+---
