@@ -112,3 +112,27 @@ Interactive React application with API integration and responsive UI.
 [🔗 Live Demo](https://pokemon-react-2025.netlify.app/)
 
 ---
+
+# 🎯 Current Focus
+
+- Building production-ready React / Next.js applications
+- Improving frontend architecture skills
+- Exploring fullstack development with NestJS
+- Learning advanced performance optimization techniques
+- Working on modern portfolio projects
+
+---
+
+# 📫 Contact Me
+
+- Telegram: https://t.me/BazZ92
+- Email: dololob92@gmail.com
+- Portfolio: https://dmitry-starchenko.netlify.app/
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
