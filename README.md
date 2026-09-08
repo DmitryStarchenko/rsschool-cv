@@ -1,1 +1,1 @@
-[## cv](https://github.com/DmitryStarchenko/rsschool-cv/cv)
+[cv](https://DmitryStarchenko.github.io/rsschool-cv/)
