@@ -1,3 +1,22 @@
+html {
+  display: flex;
+  justify-content: center;
+  background-image: url("../assets/back.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  width: 60%;
+  height: 100%;
+  border-left: 5px solid white;
+  border-right: 5px solid white;
+}
+
 .header {
   display: flex;
   align-items: center;
@@ -93,7 +112,7 @@
   }
 }
 
-.section {
+.sectionSkills {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -107,7 +126,7 @@
   font-family: Roboto;
 }
 
-.sectionContainer {
+.sectionContainerSkills {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
   justify-content: center;
@@ -125,7 +144,7 @@
   border-radius: 10px;
 }
 
-.description {
+.descriptionSkills {
   display: flex;
   flex-direction: column;
   gap: 5px;
@@ -154,4 +173,107 @@
   font-size: 17px;
   color: rgb(104, 104, 104);
   white-space: pre-line;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sectionTitle {
+  width: 90%;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.sectionContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 80%;
+  padding: 20px 0;
+}
+
+.experienceContent {
+  display: flex;
+  width: 100%;
+}
+
+.years {
+  margin-right: 30px;
+  color: rgb(104, 104, 104);
+  width: 145px;
+  font-size: 18px;
+}
+
+.experienceTitle {
+  margin: 0;
+}
+
+.institution {
+  width: 75%;
+}
+
+.experienceSchool {
+  margin-top: 0;
+}
+
+.description {
+  margin: 0;
+  font-size: 17px;
+  color: rgb(104, 104, 104);
+  white-space: pre-line;
+}
+
+.sectionEducation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sectionTitle {
+  width: 90%;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.sectionContainerEducation {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 80%;
+  padding: 20px 0;
+}
+
+.educationContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.educationTitle {
+  margin: 0 0 10px 0;
+}
+
+.description {
+  margin: 0;
+  font-size: 17px;
+  color: rgb(104, 104, 104);
+}
+
+.institution {
+  width: 75%;
+}
+
+.curses {
+  display: flex;
+  margin-bottom: 0;
+}
+
+.dot {
+  margin-right: 5px;
 }
