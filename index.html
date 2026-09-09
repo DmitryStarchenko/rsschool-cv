@@ -498,6 +498,119 @@
           </div>
         </div>
       </section>
+      <section id="projects" class="sectionProjects">
+        <h2 class="sectionTitle">Projects</h2>
+        <ul class="projectsList">
+          <li>
+            <a
+              class="projectsLink"
+              href="https://careerforge.ru"
+              target="_blank"
+            >
+              CareerForge
+            </a>
+            <p class="projectDescription">
+              AI Platform for Resume Analysis and ATS Optimization<br /><br />-
+              Developed a full-stack AI SaaS platform for resume analysis, ATS
+              matching, resume tailoring, cover letter generation, and interview
+              preparation.<br />- Designed an end-to-end AI pipeline for resume
+              processing: PDF/DOCX extraction → LLM-based structuring → Zod
+              validation → skill normalization → deterministic ATS analysis.<br />-
+              Integrated OpenRouter to handle LLM interactions and structured AI
+              responses for resume parsing, job analysis, recommendation
+              generation, resume rewriting, and cover letter creation.<br />-
+              Developed an ATS matching engine combining the analysis of skills,
+              keywords, experience, and job requirements with a reproducible
+              match score calculation algorithm.<br />- Implemented a
+              Feature-Sliced ​​Design (FSD) architecture, organizing code into
+              app, widgets, features, entities, and shared layers.<br />-
+              Designed a PostgreSQL + Prisma data model covering users, resumes,
+              job postings, AI analyses, skills, subscriptions, a referral
+              system, and application history.<br />- Implemented authentication
+              using Better Auth (email/password and Google OAuth).<br />- Set up
+              file storage using Cloudflare R2 (S3-compatible) for document
+              uploads and processing.<br />- Added full EN/RU localization using
+              next-intl.<br />- Implemented result export to PDF/DOCX, public
+              sharing of analyses via secure tokens, and resume version
+              control.<br />- Integrated Sentry, PostHog, and Microsoft Clarity
+              for error monitoring, product analytics, and user behavior
+              analysis.<br />- Configured automated testing with Vitest for
+              unit, integration, database, and AI tests.<br />- Designed the
+              SaaS infrastructure, including pricing plans and usage limits. a
+              referral program, an administrative panel, and analytics.
+            </p>
+            <div class="stackContainer">
+              <span class="stackItem"> Next.js 16 </span>
+              <span class="stackItem"> React 19 </span>
+              <span class="stackItem"> TypeScript </span>
+              <span class="stackItem"> PostgreSQL </span>
+              <span class="stackItem"> Prisma </span>
+              <span class="stackItem"> OpenRouter </span>
+              <span class="stackItem"> Better Auth </span>
+              <span class="stackItem"> Cloudflare R2 </span>
+            </div>
+          </li>
+        </ul>
+        <ul class="projectsList">
+          <li>
+            <a
+              class="projectsLink"
+              href="https://putman.vercel.app/"
+              target="_blank"
+            >
+              Putman
+            </a>
+            <p class="projectDescription">
+              - Developed a production-like Next.js application as part of a
+              cross-functional team;<br />- Implemented a multilingual
+              architecture using next-intl and Zod validation;<br />- Integrated
+              a REST API via Axios and organized state management;<br />- Worked
+              with Supabase, MUI and Vitest;<br />- Participated in code review
+              and team task planning.
+            </p>
+            <div class="stackContainer">
+              <span class="stackItem"> Next.js 16 </span>
+              <span class="stackItem"> TypeScript </span>
+              <span class="stackItem"> MUI </span>
+              <span class="stackItem"> Supabase </span>
+              <span class="stackItem"> Jotai </span>
+              <span class="stackItem"> Vitest </span>
+              <span class="stackItem"> next-intl </span>
+              <span class="stackItem"> Zod </span>
+              <span class="stackItem"> Axios </span>
+            </div>
+          </li>
+        </ul>
+        <ul class="projectsList">
+          <li>
+            <a
+              class="projectsLink"
+              href="https://ecommerce-application-lumw.onrender.com/"
+              target="_blank"
+            >
+              eCommerce application shop
+            </a>
+            <p class="projectDescription">
+              - Developed an eCommerce SPA with authorization, a product
+              catalog, filtering and a shopping cart;<br />- Integrated the
+              Commercetools API;<br />- Implemented a responsive UI using the
+              MUI and Pixel Perfect approach;<br />- Used React Router,
+              TypeScript, Vitest and a modular architecture;<br />- Configured
+              the build and frontend tooling via Webpack and Vite.
+            </p>
+            <div class="stackContainer">
+              <span class="stackItem"> React </span>
+              <span class="stackItem"> TypeScript </span>
+              <span class="stackItem"> Commercetools </span>
+              <span class="stackItem"> React Router </span>
+              <span class="stackItem"> NestJS </span>
+              <span class="stackItem"> MUI </span>
+              <span class="stackItem"> Vite </span>
+              <span class="stackItem"> Vitest </span>
+            </div>
+          </li>
+        </ul>
+      </section>
     </main>
   </body>
 </html>
