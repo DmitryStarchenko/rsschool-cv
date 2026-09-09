@@ -360,3 +360,40 @@ body {
   margin-bottom: 10px;
   font-size: 14px;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.footerContent {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  padding: 15px 10px;
+  border-top: 5px solid white;
+}
+
+.footerName,
+.updateDate {
+  color: rgb(104, 104, 104);
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.footerName:hover {
+  color: rgb(81, 81, 250);
+}
+
+.rsIcon {
+  width: 40px;
+  height: 40px;
+  background-image: url("./assets/rs.png");
+  background-size: 100%;
+  border-radius: 100%;
+}
+
+.rsSchool {
+  display: flex;
+}
