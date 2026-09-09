@@ -43,6 +43,7 @@ body {
 .jobTitle {
   margin: 0 0 10px 0;
   font-family: Roboto;
+  font-size: 22px;
 }
 
 .contacts {
